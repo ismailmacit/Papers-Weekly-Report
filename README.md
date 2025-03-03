@@ -1,7 +1,18 @@
+# 3rd March - 9th March 2025
+
+
+
 # 24th February - 2nd March 2025
 
+## Completed 
+- BUCK + LLC papers are read. More analysis will be done on topology using possible control options.
+- 3 Phase sinusoidal PWM is generated, RL load will be tested.[Dual Speed SynRM](https://github.com/odtu/Dual-speed-SynRM).
 
+## Next Week
 
+- Motor Drive RL Load test
+- BUCK + LLC papers are read. More analysis will be done on topology using possible control options.
+- GradStar Poster hazırlama
 
 # 17-23 February 2025
 
